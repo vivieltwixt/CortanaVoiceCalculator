@@ -1,0 +1,64 @@
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\bin\Debug\App.xbf
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\bin\Debug\MainPage.xbf
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\bin\Debug\CortanaVoiceCalculator.xr.xml
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\bin\Debug\CortanaVoiceCalculator.exe
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\bin\Debug\CortanaVoiceCalculator.pdb
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\bin\Debug\resources.pri
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\bin\Debug\AppxManifest.xml
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\bin\Debug\CortanaVoiceCalculator.build.appxrecipe
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\App.g.i.cs
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\App.g.cs
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\MainPage.g.i.cs
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\MainPage.g.cs
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\XamlTypeInfo.g.cs
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\App.xaml
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\MainPage.xaml
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\App.xbf
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\MainPage.xbf
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\XamlSaveStateFile.xml
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\CortanaVoiceCalculator.exe
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\CortanaVoiceCalculator.pdb
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\priconfig.xml
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\priconfig.xml.intermediate
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\layout.resfiles
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\layout.resfiles.intermediate
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\resources.resfiles
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\resources.resfiles.intermediate
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\pri.resfiles
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\pri.resfiles.intermediate
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\qualifiers.txt
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\qualifiers.txt.intermediate
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\valarie\documents\visual studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\ProjectArchitectures.txt
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\bin\Debug\App.xbf
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\bin\Debug\MainPage.xbf
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\bin\Debug\CortanaVoiceCalculator.xr.xml
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\bin\Debug\CortanaVoiceCalculator.exe
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\bin\Debug\CortanaVoiceCalculator.pdb
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\bin\Debug\resources.pri
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\bin\Debug\AppxManifest.xml
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\bin\Debug\CortanaVoiceCalculator.build.appxrecipe
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\App.g.i.cs
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\App.g.cs
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\MainPage.g.i.cs
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\MainPage.g.cs
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\App.xaml
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\MainPage.xaml
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\App.xbf
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\MainPage.xbf
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\CortanaVoiceCalculator.exe
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\CortanaVoiceCalculator.pdb
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\priconfig.xml
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\priconfig.xml.intermediate
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\layout.resfiles
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\layout.resfiles.intermediate
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\resources.resfiles
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\resources.resfiles.intermediate
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\pri.resfiles
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\pri.resfiles.intermediate
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\qualifiers.txt
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\obj\Debug\ProjectArchitectures.txt

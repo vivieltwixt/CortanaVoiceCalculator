@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.1">
+  <CommandSet xml:lang="en-US">
+    <CommandPrefix>Voice Calculator</CommandPrefix>
+    <Example> basic math operations performed in a completely vocal format</Example>
+
+    <Command Name="Multiplication">
+      <Example> two point two times four </Example>
+      <ListenFor> Multiply {number} [times] {number2} </ListenFor>
+      <ListenFor> Multiply {number} [by] {number2} </ListenFor>
+      <ListenFor> [What is] {number} times {number2} </ListenFor>
+      <ListenFor> [What's] {number} times {number2} </ListenFor>
+      <Feedback> Calculating {number} times {number2}... </Feedback>
+      <Navigate Target="MainPage.xaml" />
+    </Command>
+
+    <Command Name="Division">
+      <Example> sixteen point two divided by four </Example>
+      <ListenFor> Divide {number} by {number2} </ListenFor>
+      <ListenFor> [What is] {number} divided by {number2} </ListenFor>
+      <ListenFor> [What's] {number} divided by {number2} </ListenFor>
+      <Feedback> Calculating {number} divided by {number2}... </Feedback>
+      <Navigate Target="MainPage.xaml" />
+    </Command>
+
+    <Command Name="Addition">
+      <Example> one hundred seventy-three plus ninety-four </Example>
+      <ListenFor> [Add] {number} plus {number2} </ListenFor>
+      <ListenFor> [What is] {number} plus {number2} </ListenFor>
+      <ListenFor> [What's] {number} plus {number2} </ListenFor>
+      <ListenFor> [What is] {number} added to {number2} </ListenFor>
+      <ListenFor> [What's] {number} added to {number2} </ListenFor>
+      <Feedback> Calculating {number} plus {number2}... </Feedback>
+      <Navigate Target="MainPage.xaml" />
+    </Command>
+
+    <Command Name="Subtraction">
+      <Example> seventeen minus twenty </Example>
+      <ListenFor> {number} minus {number2} </ListenFor>
+      <ListenFor> {number} subtract {number2} </ListenFor>
+      <ListenFor> [What is] {number} subtract {number2} </ListenFor>
+      <ListenFor> [What is] {number} minus {number2} </ListenFor>
+      <ListenFor> [What's] {number} subtract {number2} </ListenFor>
+      <ListenFor> [What's] {number} minus {number2} </ListenFor>
+      <Feedback> Calculating {number} minus {number2}... </Feedback>
+      <Navigate Target="MainPage.xaml" />
+    </Command>
+    
+    <PhraseTopic Label="number" Scenario="Number"> 
+        <Subject> Number </Subject> 
+    </PhraseTopic>
+
+    <PhraseTopic Label="number2" Scenario="Number">
+      <Subject> Number </Subject>
+    </PhraseTopic>
+	
+  </CommandSet>
+</VoiceCommands>

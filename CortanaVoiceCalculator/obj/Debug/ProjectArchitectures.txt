@@ -1,0 +1,1 @@
+C:\Users\Valarie\Desktop\Coding Projects\Visual Studio 2013\Projects\CortanaVoiceCalculator\CortanaVoiceCalculator\CortanaVoiceCalculator.csproj;neutral

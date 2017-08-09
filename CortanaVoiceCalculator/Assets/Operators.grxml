@@ -1,0 +1,34 @@
+﻿<grammar version="1.0" xml:lang="en-US" root="topLevel"
+ xmlns="http://www.w3.org/2001/06/grammar">
+
+  <rule id="topLevel">
+    <ruleref uri="#Multiplication" />
+    <ruleref uri="#Division" />
+    <ruleref uri="#Addition" />
+    <ruleref uri="#Subtraction" />
+  </rule>
+
+  <rule id="Multiplication">
+    <item> times </item>
+    <item> multiplied by</item>
+  </rule>
+
+  <rule id="Division">
+    <one-of>
+      <item> divided by </item>
+    </one-of>
+  </rule>
+
+  <rule id="Addition">
+    <item> plus </item>
+    <item> added to </item>
+  </rule>
+
+  <rule id="Subtraction">
+    <one-of>
+      <item> minus </item>
+      <item> subtract </item>
+    </one-of>
+  </rule>
+
+</grammar>
